@@ -45,10 +45,3 @@ The CNN includes:
 Optimizer: **Adam**  
 Loss: **Categorical Crossentropy**
 
----
-
-## 🚀 How to Run the Project
-
-### 1️⃣ Install dependencies
-```bash
-pip install -r requirements.txt
